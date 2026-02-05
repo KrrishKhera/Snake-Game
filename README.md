@@ -12,11 +12,13 @@ Add your images/screenshots here:
 
 🎮 **Gameplay Screen**
 
-![Gameplay Screenshot](path/to/screenshot1.png)
+<img width="749" height="776" alt="Screenshot 2026-02-06 at 1 27 35 AM" src="https://github.com/user-attachments/assets/f401fe44-c6fe-4760-a7c5-3ca8b47adb00" />
+
 
 🎯 **Game Over / Score Screen**
 
-![Game Over Screenshot](path/to/screenshot2.png)
+<img width="755" height="778" alt="Screenshot 2026-02-06 at 1 29 13 AM" src="https://github.com/user-attachments/assets/af93e05e-8965-4bc6-aceb-712a4a010577" />
+
 
 ---
 
